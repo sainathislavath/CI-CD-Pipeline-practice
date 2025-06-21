@@ -15,5 +15,3 @@ jobs:
 
     - name: Show all files
       run: ls -al
-
-    - name: Deploy SSH to EC2
